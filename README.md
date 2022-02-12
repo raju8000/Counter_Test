@@ -1,16 +1,12 @@
-# counter_app
+# Counter App
 
-A counter test app for test given by Agenda Boa
+description: A counter test app eith Riverpod Statemanagemnt and firebase as backend for maintain counter dara
 
-## Getting Started
+## Library used
 
-This project is a starting point for a Flutter application.
+flutter_riverpod: ^1.0.0,
+  get: ^4.3.8
+  firebase_core: ^1.10.6,
+  firebase_database: ^9.0.4,
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Visit [devblog.link](http://devblog.link/), for more flutter related post.
